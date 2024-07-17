@@ -33,7 +33,7 @@ table, th, td {
                 <td>
                   <b>Robust Pseudo-label Learning with Neighbor Relation for Unsupervised </br> Visible-Infrared Person Re-Identification</br>
                   <br>
-                  <b><i>Xiangbo Yin</i></b>, Jiangming Shi, Yachao Zhang, Yang Lu, Zhizhong Zhang ,Yuan Xie&#128140;, Yanyun Qu&#128140;
+                  <b><i>Xiangbo Yin</i></b>, Jiangming Shi, Yachao Zhang, Yang Lu, Zhizhong Zhang ,Yuan Xie*, Yanyun Qu*
                   <br>
                   <em> ACM Multimedia (ACMMM 2024)</em>
                   <br>
@@ -82,7 +82,7 @@ table, th, td {
                   <img width="360" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
                 </td>
                 <td>
-                  <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised </br> Visible-Infrared Person Re-Identification</br>
+                  <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised </br> Visible-Infrared Person Re-Identification
                   <br>
                   Jiangming Shi*, Yachao Zhang*, <b><i>Xiangbo Yin</i></b>, Yuan Xie†, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu†
                   <br>
