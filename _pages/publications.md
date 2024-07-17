@@ -34,7 +34,8 @@ table, th, td {
                   <b>Robust Pseudo-label Learning with Neighbor Relation for Unsupervised</b> <br>
                   <b>Visible-Infrared Person Re-Identification</b>
                   <br>
-                  <b><i>Xiangbo Yin</i></b>, Jiangming Shi, Yachao Zhang, Yang Lu, Zhizhong Zhang ,Yuan Xie†, Yanyun Qu†
+                  <b><i>Xiangbo Yin</i></b>, Jiangming Shi, Yachao Zhang, Yang Lu, <br>
+                  Zhizhong Zhang, Yuan Xie&#128140;, Yanyun Qu&#128140;
                   <br>
                   <em> ACM Multimedia (ACMMM 2024)</em>
                   <br>
@@ -51,7 +52,8 @@ table, th, td {
                 <td>
                   <b>Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification</b>
                   <br>
-                  Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Yeyun Chen, Yachao Zhang, Zhizhong Zhang ,Yuan Xie†, Yanyun Qu†
+                  Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Yeyun Chen, Yachao Zhang, <br>
+                  Zhizhong Zhang, Yuan Xie&#128140;, Yanyun Qu&#128140;
                   <br>
                   <em> European Conference on Computer Vision (ECCV 2024)</em>
                   <br>
@@ -68,7 +70,8 @@ table, th, td {
                 <td>
                   <b>CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data</b>
                   <br>
-                  Jiangming Shi, ShanShan Zheng, <b><i>Xiangbo Yin</i></b>, Yang Lu, Yuan Xie†, Yanyun Qu†
+                  Jiangming Shi, ShanShan Zheng, <b><i>Xiangbo Yin</i></b>, Yang Lu, <br>
+                  Yuan Xie&#128140;, Yanyun Qu&#128140;
                   <br>
                   <em> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024)</em>
                   <br>
@@ -86,7 +89,7 @@ table, th, td {
                   <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised</b> <br>
                   <b>Visible-Infrared Person Re-Identification</b>
                   <br>
-                  Jiangming Shi*, Yachao Zhang*, <b><i>Xiangbo Yin</i></b>, Yuan Xie†, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu†
+                  Jiangming Shi*, Yachao Zhang*, <b><i>Xiangbo Yin</i></b>, Yuan Xie&#128140;, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu&#128140;
                   <br>
                   <em> IEEE Conference on International Conference on Computer Vision (ICCV 2023) </em>
                   <br>
