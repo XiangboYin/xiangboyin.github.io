@@ -31,7 +31,8 @@ table, th, td {
                   <img width="360" src="{{ base_path }}/images/RPNR.png" alt="RPNR" style="border:0px">
                 </td>
                 <td>
-                  <b>Robust Pseudo-label Learning with Neighbor Relation for Unsupervised <br> Visible-Infrared Person Re-Identification
+                  <b>Robust Pseudo-label Learning with Neighbor Relation for Unsupervised</b> 
+                  <b>Visible-Infrared Person Re-Identification</b>
                   <br>
                   <b><i>Xiangbo Yin</i></b>, Jiangming Shi, Yachao Zhang, Yang Lu, Zhizhong Zhang ,Yuan Xie*, Yanyun Qu*
                   <br>
@@ -82,7 +83,8 @@ table, th, td {
                   <img width="360" src="{{ base_path }}/images/DPIS.png" alt="CLIP2FL" style="border:0px">
                 </td>
                 <td>
-                  <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised <br> Visible-Infrared Person Re-Identification
+                  <b>Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised</b> 
+                  <b>Visible-Infrared Person Re-Identification</b>
                   <br>
                   Jiangming Shi*, Yachao Zhang*, <b><i>Xiangbo Yin</i></b>, Yuan Xie†, Zhizhong Zhang, Jianping Fang, Zhongchao Shi, Yanyun Qu†
                   <br>
