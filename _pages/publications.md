@@ -34,7 +34,7 @@ table, th, td {
                   <b>Robust Pseudo-label Learning with Neighbor Relation for Unsupervised</b> <br>
                   <b>Visible-Infrared Person Re-Identification</b>
                   <br>
-                  <b><i>Xiangbo Yin</i></b>, Jiangming Shi, Yachao Zhang, Yang Lu, <br>
+                  <b><i>Xiangbo Yin&#10024;</i></b>, Jiangming Shi&#10024;, Yachao Zhang, Yang Lu, <br>
                   Zhizhong Zhang, Yuan Xie&#128140;, Yanyun Qu&#128140;
                   <br>
                   <em> ACM Multimedia (ACMMM 2024)</em>
