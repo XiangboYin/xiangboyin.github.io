@@ -6,7 +6,7 @@ author_profile: true
 ---
 <hr>
 ## 🎓 Postgraduate
-- National Scholarship (国家奖学金)
+- National Scholarship (2024年国家奖学金)
 - Outstanding Student, Xiamen University (优秀三好学生)
 
 ## 🎓 Undergraduate
