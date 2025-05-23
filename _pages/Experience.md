@@ -21,4 +21,12 @@ author_profile: true
 
 
 ## 💼 Work
+<ul>
+    <li>
+        <strong><i>2025.05 - Now</i></strong>: ByteDance, China.
+    </li>
+        <li>
+        <strong><i>2023.02 - 2023.05</i></strong>: Guangming Lab, China.
+    </li>
+</ul>
 <hr>
