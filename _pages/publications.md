@@ -72,7 +72,7 @@ table, th, td {
                   <b>Learning Commonality, Divergence and Variety for Unsupervised</b> <br>
                   <b>Visible-Infrared Person Re-identification</b>
                   <br>
-                  Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Yachao Zhang,<br>
+                  Jiangming Shi&#10024;, <b><i>Xiangbo Yin&#10024;</i></b>, Yachao Zhang,<br>
                   Zhizhong Zhang, Yuan Xie&#128140;, Yanyun Qu&#128140;
                   <br>
                   <em> Neural Information Processing Systems (NeurIPS 2024)</em>
