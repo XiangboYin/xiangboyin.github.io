@@ -39,11 +39,11 @@ table, th, td {
                   <br>
                   <em>  IEEE Transactions on Circuits and Systems for Video Technology  (TCSVT 2025)</em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_B%20%2F%20JCR_1-F5F5F5">
                   <a href="https://ieeexplore.ieee.org/document/11007734"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:qjMakFHDy7sC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:qjMakFHDy7sC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/XiangboYin/RPNR"><img src="https://img.shields.io/github/stars/XiangboYin/RPNR?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
                   <a href="{{ base_path }}/ciations/RPNR.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
-                  <img src="https://img.shields.io/badge/CCF_A%20%2F%20JCR_1-D8BFD8">
                 </td>
               </tr>      
               <tr>
@@ -59,10 +59,11 @@ table, th, td {
                   <br>
                   <em>  Pattern Recognition  (PR 2025)</em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_B%20%2F%20JCR_1-D8BFD8">
                   <a href="https://ieeexplore.ieee.org/document/11007734"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:qjMakFHDy7sC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:qjMakFHDy7sC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/shijiangming1/TSKD"><img src="https://img.shields.io/github/stars/shijiangming1/TSKD?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
-                  <a href="{{ base_path }}/ciations/RPNR.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
+                  <a href="{{ base_path }}/ciations/PR.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
                 </td>
               </tr>                       
               <tr>
