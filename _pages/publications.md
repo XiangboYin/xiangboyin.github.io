@@ -59,7 +59,7 @@ table, th, td {
                   <br>
                   <em>  Pattern Recognition  (PR 2025)</em>
                   <br>
-                  <img src="https://img.shields.io/badge/CCF_B%20%2F%20JCR_1-D8BFD8">
+                  <img src="https://img.shields.io/badge/CCF_B%20%2F%20JCR_1-F5F5F5">
                   <a href="https://ieeexplore.ieee.org/document/11007734"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:qjMakFHDy7sC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:qjMakFHDy7sC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/shijiangming1/TSKD"><img src="https://img.shields.io/github/stars/shijiangming1/TSKD?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
@@ -79,6 +79,7 @@ table, th, td {
                   <br>
                   <em> Neural Information Processing Systems (NeurIPS 2024)</em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_A-F5F5F5">
                   <a href="https://arxiv.org/pdf/2402.19026"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:9yKSN-GCB0IC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:9yKSN-GCB0IC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/XiangboYin/PCLHD"><img src="https://img.shields.io/github/stars/XiangboYin/PCLHD?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
@@ -98,6 +99,7 @@ table, th, td {
                   <br>
                   <em> ACM Multimedia (ACMMM 2024)</em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_A-F5F5F5">
                   <a href="https://arxiv.org/pdf/2405.05613"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:qjMakFHDy7sC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:qjMakFHDy7sC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/XiangboYin/RPNR"><img src="https://img.shields.io/github/stars/XiangboYin/RPNR?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
@@ -116,6 +118,7 @@ table, th, td {
                   <br>
                   <em> European Conference on Computer Vision (ECCV 2024)</em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_B%20%2F%20CAAI_A-F5F5F5">
                   <a href="https://arxiv.org/pdf/2401.06825"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:d1gkVwhDpl0C"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:d1gkVwhDpl0C%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/shijiangming1/MMM"><img src="https://img.shields.io/github/stars/shijiangming1/MMM?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
@@ -134,6 +137,7 @@ table, th, td {
                   <br>
                   <em> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024)</em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_A-F5F5F5">
                   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416/30672"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:u-x6o8ySG0sC"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:u-x6o8ySG0sC%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/shijiangming1/CLIP2FL"><img src="https://img.shields.io/github/stars/shijiangming1/CLIP2FL?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
@@ -153,6 +157,7 @@ table, th, td {
                   <br>
                   <em> IEEE Conference on International Conference on Computer Vision (ICCV 2023) </em>
                   <br>
+                  <img src="https://img.shields.io/badge/CCF_A-F5F5F5">
                   <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:u5HHmVD_uO8C"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:u5HHmVD_uO8C%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
                   <a href="https://github.com/XiangboYin/DPIS_SSVI-ReID"><img src="https://img.shields.io/github/stars/XiangboYin/DPIS_SSVI-ReID?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
