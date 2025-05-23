@@ -54,7 +54,7 @@ table, th, td {
                   <b>Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification</b> <br>
                   <!-- <b>Visible-Infrared Person Re-identification</b> -->
                   <br>
-                  Jiangming Shi&#10024;, <b><i>Xiangbo Yin</i></b>, Demao Zhang,<br>
+                  Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Demao Zhang,<br>
                   Zhizhong Zhang, Yuan Xie, Yanyun Qu&#128140;
                   <br>
                   <em>  Pattern Recognition  (PR 2025)</em>
