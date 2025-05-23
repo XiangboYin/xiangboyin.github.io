@@ -52,8 +52,6 @@ table, th, td {
                 </td>
                 <td>
                   <b>Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification</b> <br>
-                  <!-- <b>Visible-Infrared Person Re-identification</b> -->
-                  <br>
                   Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Demao Zhang,<br>
                   Zhizhong Zhang, Yuan Xie, Yanyun Qu&#128140;
                   <br>
