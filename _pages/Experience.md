@@ -23,10 +23,10 @@ author_profile: true
 ## 💼 Work
 <ul>
     <li>
-        <strong><i>2025.05 - Now</i></strong> : ByteDance, China. （字节跳动实习生）
+        <strong><i>2025.05 - 2025.08</i></strong> : ByteDance, China. （字节跳动实习生）
     </li>
         <li>
-        <strong><i>2023.02 - 2023.05</i></strong> : Guangming Lab, China. （光明实验室实习生）
+        <strong><i>2023.02 - 2023.04</i></strong> : Guangming Lab, China. （光明实验室实习生）
     </li>
 </ul>
 <hr>
