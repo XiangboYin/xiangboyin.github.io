@@ -18,4 +18,3 @@ author_profile: true
 - Excellent Student Cadre, Kunming University of Science and Technology (优秀学生干部)
 - Pacemaker to Merit Student, Kunming University of Science and Technology (三好学生标兵)
 - Innovation and Entrepreneurship Award, Kunming University of Science and Technology (创新创业奖)
-- Top 10 University Students of the Year, Kunming University of Science and Technology (十佳大学生年度人物)
