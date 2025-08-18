@@ -28,6 +28,25 @@ table, th, td {
             <tbody>
               <tr>
                 <td class="noBorder" width="40%">
+                  <img width="360" src="{{ base_path }}/images/ICCV2025.png" alt="ICCV2025" style="border:0px">
+                </td>
+                <td>
+                  <b>Multi-Schema Proximity Network for Composed Image Retrieval</b>
+                  <br>
+                  Jiangming Shi, <b><i>Xiangbo Yin</i></b>, Yeyun Chen<br>
+                  Yachao Zhang, Zhizhong Zhang, Yuan Xie&#128140;, Yanyun Qu&#128140;
+                  <br>
+                  <em>  IEEE Conference on International Conference on Computer Vision (ICCV 2025)</em>
+                  <br>
+                  <img src="https://img.shields.io/badge/CCF_A%20%2F%20JCR_1-F5F5F5?labelColor=red">
+                  <!-- <a href="https://ieeexplore.ieee.org/document/11007734"><img src="https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
+                  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:IjCSPb-OGe4C"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:IjCSPb-OGe4C%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
+                  <a href="https://github.com/XiangboYin/RPNR"><img src="https://img.shields.io/github/stars/XiangboYin/RPNR?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp; -->
+                  <a href="{{ base_path }}/ciations/MAPNet.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>
+                </td>
+              </tr>              
+              <tr>
+                <td class="noBorder" width="40%">
                   <img width="360" src="{{ base_path }}/images/TCSVT.png" alt="TCSVT" style="border:0px">
                 </td>
                 <td>
