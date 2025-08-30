@@ -17,9 +17,6 @@ My name is Xiangbo Yin (尹祥博), I received the B.E. degree from the Faculty 
 <hr>
 <ul>
   <li>
-    <strong><i>2025.06:</i></strong> 🎉 One paper is accepted by ICCV 2025.
-  </li>
-  <li>
     <strong><i>2025.05:</i></strong> 🎉 One paper is accepted by TCSVT 2025.
   </li>
   <li>
